@@ -1,0 +1,7 @@
+# done within ~/timothy.howarth/ay22_hw2
+cp -R sandbox playpen
+
+# done within~/timothy.howarth/ay22_hw2/playpen
+mv dir1 folder1
+mv dir2 folder2
+mv commands.txt play.txt

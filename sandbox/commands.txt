@@ -1,0 +1,16 @@
+# done within ~/timothy.howarth/ay22_hw2
+mkdir sandbox
+
+# move to sandbox
+cd timothy.howarth/ay22_hw2/sandbox
+gedit commands.txt
+
+# done within ~/timothy.howarth/ay22_hw2/sandbox
+mkdir dir1
+mkdir dir2
+
+# done within ~/timothy.howarth/ay22_hw2/sandbox/dir1
+gedit file1.txt
+
+# done within ~/timothy.howarth/ay22_hw2/sandbox/dir2
+gedit file2.txt
