@@ -1,0 +1,7 @@
+cd ~/matthew.heubach/ay22_hw2
+tree
+cp -R sandbox playpen
+cd playpen
+mv dir1 folder1
+mv dir2 folder2
+mv commands.txt play.txt

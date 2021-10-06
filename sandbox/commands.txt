@@ -1,0 +1,11 @@
+mkdir sandbox
+cd sandbox
+gedit commands.txt
+mkdir dir1
+mkdir dir2
+cd dir1
+gedit file1.txt
+cd ~/matthew.heubach/ay22_hw2/sandbox/dir2
+gedit file2.txt
+cd ~/matthew.heubach/ay22_hw2
+tree
